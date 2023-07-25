@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Yazılım geliştirme konusunda tutkulu ve deneyimli bir yazılımcıyım.<br>- Python, Java, C, JavaScript gibi çeşitli dillerde ve teknolojilerde projeler geliştirdim.<br>- Takım çalışmasına ve iletişime önem veriyorum.<br>- Kendimi sürekli geliştirmek ve yeni şeyler öğrenmek için çalışıyorum.
+ Yazılım geliştirme konusunda tutkulu ve deneyimli bir yazılımcıyım.<br> Python, Java, C, JavaScript gibi çeşitli dillerde ve teknolojilerde projeler geliştirdim.<br> Takım çalışmasına ve iletişime önem veriyorum.<br> Kendimi sürekli geliştirmek ve yeni şeyler öğrenmek için çalışıyorum.
 
 
 ## 🌐 Socials:
